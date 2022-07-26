@@ -1,4 +1,4 @@
-# Project: Layout and Simulate operation of NMOS and PMOS transistors using the C5 process
+# Layout and Simulate operation of NMOS and PMOS transistors using the C5 process
 # NMOS
 ## Virtuoso Schematic Editor
 
